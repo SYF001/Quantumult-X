@@ -1,0 +1,10 @@
+# > AbemaTV
+host-suffix,abema.io
+host-suffix,abema.tv
+host-suffix,abema-tv.com
+host-suffix,ameba.jp
+host-suffix,hayabusa.io
+host-suffix,hayabusa.media
+host,api-abematv.bucketeer.jp
+USER-AGENT,AbemaTV*
+host-keyword,abematv.akamaized.net
