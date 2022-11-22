@@ -1,8 +1,8 @@
-#> China Apps
+# China Apps
 user-agent,MicroMessenger Client
 user-agent,WeChat*
 user-agent,MApi* // Dianping
-#> Ali
+# Ali
 host-keyword,alipay
 host-keyword,taobao
 host-keyword,alicdn
@@ -11,10 +11,10 @@ host-keyword,.tmall.
 ip-cidr,198.11.188.0/25,no-resolve
 ip-cidr,198.11.136.0/24,no-resolve
 user-agent,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
-#> China
+# China
 host-suffix,CN
 host-suffix,baidu
-#> Lan 
+# Lan 
 host-suffix,local
 host-suffix,ip6-localhost
 host-suffix,ip6-loopback
@@ -57,109 +57,96 @@ host-suffix,hdslb.com
 host-suffix,biliintl.com
 host-suffix,acfun.cn
 host-suffix,acfun.com
-DOMAIN-SUFFIX,acfun.tv
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,aixifan.com
-IP-CIDR,106.75.74.76/32,no-resolve
-IP-CIDR,111.206.25.147/32,no-resolve
-IP-CIDR,119.3.238.64/32,no-resolve
-IP-CIDR,120.92.108.182/32,no-resolve
-IP-CIDR,120.92.113.99/32,no-resolve
-IP-CIDR,120.92.153.217/32,no-resolve
-IP-CIDR,134.175.207.130/32,no-resolve
-IP-CIDR,203.107.1.0/24,no-resolve
-USER-AGENT,AcFun*
-USER-AGENT,*bili*
-USER-AGENT,Bilibili*
-USER-AGENT,bili*
-USER-AGENT,bili-inter*
+host-suffix,acfun.tv
+host-suffix,acg.tv
+host-suffix,acgvideo.com
+host-suffix,aixifan.com
+ip-cidr,106.75.74.76/32,no-resolve
+ip-cidr,111.206.25.147/32,no-resolve
+ip-cidr,119.3.238.64/32,no-resolve
+ip-cidr,120.92.108.182/32,no-resolve
+ip-cidr,120.92.113.99/32,no-resolve
+ip-cidr,120.92.153.217/32,no-resolve
+ip-cidr,134.175.207.130/32,no-resolve
+ip-cidr,203.107.1.0/24,no-resolve
+user-agent,AcFun*
+user-agent,*bili*
+user-agent,Bilibili*
+user-agent,bili*
+user-agent,bili-inter*
 # DingTalk
-DOMAIN-SUFFIX,ddurl.to
-DOMAIN-SUFFIX,dg-work.cn
-DOMAIN-SUFFIX,dingding.xin
-DOMAIN-SUFFIX,dingtalk.cn
-DOMAIN-SUFFIX,dingtalk.com
-DOMAIN-SUFFIX,dingtalk.com.cn
-DOMAIN-SUFFIX,dingtalk.net
-DOMAIN-SUFFIX,dingtalkapps.com
-DOMAIN-SUFFIX,laiwang.com
-DOMAIN-SUFFIX,lwurl.to
-DOMAIN-SUFFIX,realapp.xin
+host-suffix,ddurl.to
+host-suffix,dg-work.cn
+host-suffix,dingding.xin
+host-suffix,dingtalk.cn
+host-suffix,dingtalk.com
+host-suffix,dingtalk.com.cn
+host-suffix,dingtalk.net
+host-suffix,dingtalkapps.com
+host-suffix,laiwang.com
+host-suffix,lwurl.to
+host-suffix,realapp.xin
 
 # Douban
-DOMAIN-SUFFIX,douban.com
-DOMAIN-SUFFIX,douban.fm
-DOMAIN-SUFFIX,doubanio.com
+host-suffix,douban.com
+host-suffix,douban.fm
+host-suffix,doubanio.com
 
 #Douyin
-DOMAIN-SUFFIX,amemv.com
-DOMAIN-SUFFIX,douyincdn.com
-DOMAIN-SUFFIX,douyinpic.com
-DOMAIN-SUFFIX,douyinstatic.com
-DOMAIN-SUFFIX,douyinvod.com
-DOMAIN-SUFFIX,idouyinvod.com
-DOMAIN-SUFFIX,ixigua.com
-DOMAIN-SUFFIX,ixiguavideo.com
-DOMAIN-SUFFIX,pstatp.com
-DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,toutiao.com
+host-suffix,amemv.com
+host-suffix,douyincdn.com
+host-suffix,douyinpic.com
+host-suffix,douyinstatic.com
+host-suffix,douyinvod.com
+host-suffix,idouyinvod.com
+host-suffix,ixigua.com
+host-suffix,ixiguavideo.com
+host-suffix,pstatp.com
+host-suffix,snssdk.com
+host-suffix,toutiao.com
 
 # ---(Microsoft)---
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,edgesuite.net
-DOMAIN-SUFFIX,hotmail.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,msn.cn
-DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,office.net
-DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,onenote.com
-DOMAIN-SUFFIX,onenote.net
-DOMAIN-SUFFIX,onestore.ms
-DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,outlookmobile.com
-DOMAIN-SUFFIX,skype.com
-DOMAIN-SUFFIX,sway.com
-DOMAIN-SUFFIX,visualstudio.com
-DOMAIN-SUFFIX,windows.com
-DOMAIN-SUFFIX,windows.net
-DOMAIN-KEYWORD,cloudapp
-DOMAIN-KEYWORD,azure
-DOMAIN-KEYWORD,acompli
-DOMAIN-KEYWORD,skype
-DOMAIN-KEYWORD,windows
-DOMAIN-KEYWORD,yammer
-DOMAIN-KEYWORD,1drv
-DOMAIN-KEYWORD,microsoft
+host-suffix,bing.com
+host-suffix,edgesuite.net
+host-suffix,hotmail.com
+host-suffix,live.com
+host-suffix,live.net
+host-suffix,msn.cn
+host-suffix,msn.com
+host-suffix,office.com
+host-suffix,office.net
+host-suffix,office365.com
+host-suffix,onedrive.com
+host-suffix,onenote.com
+host-suffix,onenote.net
+host-suffix,onestore.ms
+host-suffix,outlook.com
+host-suffix,outlookmobile.com
+host-suffix,skype.com
+host-suffix,sway.com
+host-suffix,visualstudio.com
+host-suffix,windows.com
+host-suffix,windows.net
+host-keyword,cloudapp
+host-keyword,azure
+host-keyword,acompli
+host-keyword,skype
+host-keyword,windows
+host-keyword,yammer
+host-keyword,1drv
+host-keyword,microsoft
 # > Outlook
-DOMAIN,outlook.office365.com
-DOMAIN,smtp-mail.outlook.com
-DOMAIN,smtp.office365.com
+host,outlook.office365.com
+host,smtp-mail.outlook.com
+host,smtp.office365.com
 # > IP Query
-DOMAIN,ip.istatmenus.app
-DOMAIN,sms.imagetasks.com
+host,ip.istatmenus.app
+host,sms.imagetasks.com
 # > PayPal
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypal.me
-DOMAIN-SUFFIX,paypal-mktg.com
-DOMAIN-SUFFIX,paypalobjects.com
-
-# NAME: DingTalk
-DOMAIN-SUFFIX,ddurl.to
-DOMAIN-SUFFIX,dg-work.cn
-DOMAIN-SUFFIX,dingding.xin
-DOMAIN-SUFFIX,dingtalk.cn
-DOMAIN-SUFFIX,dingtalk.com
-DOMAIN-SUFFIX,dingtalk.com.cn
-DOMAIN-SUFFIX,dingtalk.net
-DOMAIN-SUFFIX,dingtalkapps.com
-DOMAIN-SUFFIX,laiwang.com
-DOMAIN-SUFFIX,lwurl.to
-DOMAIN-SUFFIX,realapp.xin
+host-suffix,paypal.com
+host-suffix,paypal.me
+host-suffix,paypal-mktg.com
+host-suffix,paypalobjects.com
 
 # > Tencent
 DOMAIN-SUFFIX,qlogo.cn
