@@ -177,30 +177,30 @@ host-suffix,economist.com
 host-suffix,static-economist.com
 
 # > Twitter
-DOMAIN-SUFFIX,periscope.tv
-DOMAIN-SUFFIX,pscp.tv
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,tweetdeck.com
-DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twitter.jp
-DOMAIN-SUFFIX,vine.co
+host-suffix,periscope.tv
+host-suffix,pscp.tv
+host-suffix,t.co
+host-suffix,tweetdeck.com
+host-suffix,twimg.co
+host-suffix,twimg.com
+host-suffix,twitpic.com
+host-suffix,twitter.com
+host-suffix,twitter.jp
+host-suffix,vine.co
 
 # > YouTube
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,withyoutube.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,youtubeeducation.com
-DOMAIN-SUFFIX,youtubegaming.com
-DOMAIN-SUFFIX,youtubekids.com
-DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN,youtubei.googleapis.com
-DOMAIN,yt3.ggpht.com
+host-suffix,googlevideo.com
+host-suffix,withyoutube.com
+host-suffix,youtu.be
+host-suffix,youtube.com
+host-suffix,youtubeeducation.com
+host-suffix,youtubegaming.com
+host-suffix,youtubekids.com
+host-suffix,youtube-nocookie.com
+host-suffix,yt.be
+host-suffix,ytimg.com
+host,youtubei.googleapis.com
+host,yt3.ggpht.com
 IP-CIDR,172.110.32.0/21,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,216.73.80.0/20,no-resolve
