@@ -7,21 +7,21 @@ host,avodmp4s3ww-a.akamaihd.net
 host,d3c33hcgiwev3.cloudfront.net
 host,s3-ap-northeast-1.amazonaws.com
 host,s3-ap-southeast-2.amazonaws.com
+host-suffix,pv-cdn.net
 host-suffix,aiv-cdn.net
+host-suffix,amazon.co.jp
+host-suffix,primevideo.tv
 host-suffix,amazonaws.com
+host-suffix,primevideo.cc
+host-suffix,primevideo.org
 host-suffix,primevideo.com
 host-suffix,amazonvideo.com
 host-suffix,amazonvideo.com
 host-suffix,prime-video.com
+host-suffix,primevideo.info
 host-suffix,media-amazon.com
 host-suffix,aiv-delivery.net
 host-suffix,media-amazon.com
-host-suffix,primevideo.cc
-host-suffix,primevideo.info
-host-suffix,primevideo.org
-host-suffix,primevideo.tv
-host-suffix,pv-cdn.net
-host-suffix,amazon.co.jp
 user-agent,InstantVideo.US*
 user-agent,Prime%20Video*
 host-keyword,avoddashs
@@ -59,24 +59,24 @@ host,upos-bstar-mirrorakam.akamaized.net
 host,upos-bstar1-mirrorakam.akamaized.net
 host,upos-hz-mirrorakam.akamaized.net
 host-suffix,biliintl.com
-host-keyword ,cn-hk-eq-bcache-
+host-keyword,cn-hk-eq-bcache-
 user-agent,bilibili
 user-agent,bili-inter*
-IP-CIDR,45.43.32.234/32,no-resolve
-IP-CIDR,119.29.29.29/32,no-resolve
-IP-CIDR,128.1.62.200/32,no-resolve
-IP-CIDR,128.1.62.201/32,no-resolve
-IP-CIDR,150.116.92.250/32,no-resolve
-IP-CIDR,164.52.76.18/32,no-resolve
-IP-CIDR,203.107.1.33/32,no-resolve
-IP-CIDR,203.107.1.34/32,no-resolve
-IP-CIDR,203.107.1.65/32,no-resolve
-IP-CIDR,203.107.1.66/32,no-resolve
+ip-cidr,45.43.32.234/32
+ip-cidr,119.29.29.29/32
+ip-cidr,128.1.62.200/32
+ip-cidr,128.1.62.201/32
+ip-cidr,150.116.92.250/32
+ip-cidr,164.52.76.18/32
+ip-cidr,203.107.1.33/32
+ip-cidr,203.107.1.34/32
+ip-cidr,203.107.1.65/32
+ip-cidr,203.107.1.66/32
 
 # > Discord
-DOMAIN-SUFFIX,discord.com
-DOMAIN-SUFFIX,discordapp.com
-DOMAIN-SUFFIX,discordapp.net
+host-suffix,discord.com
+host-suffix,discordapp.com
+host-suffix,discordapp.net
 
 # > Disney+
 USER-AGENT,Disney+*
