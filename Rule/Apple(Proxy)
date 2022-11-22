@@ -1,0 +1,21 @@
+host-suffix,cdn-apple.com
+host-suffix,mzstatic.com // App Store & iTunes Images
+host-suffix,aaplimg.com
+host-suffix,apple.co
+host-suffix,apple.com
+host-suffix,icloud-content.com
+host-suffix,icloud.com
+host-suffix,itunes.com
+host-suffix,itunes.apple.com
+host-suffix,lookup-api.apple.com // Dictionary
+host-suffix,me.com
+user-agent,com.apple.appstored* // iOS App Store
+ip-cidr,139.178.128.0/18
+ip-cidr,144.178.0.0/19
+ip-cidr,144.178.36.0/22
+ip-cidr,144.178.48.0/20
+ip-cidr,192.35.50.0/24
+ip-cidr,198.183.17.0/24
+ip-cidr,205.180.175.0/24
+ip-cidr,63.92.224.0/19
+ip-cidr,65.199.22.0/23
