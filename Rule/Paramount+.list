@@ -1,0 +1,11 @@
+# > Paramount+
+user-agent,PPlus*
+host-suffix,cbsi.com
+host-suffix,cbsaavideo.com
+host-suffix,cbsivideo.com
+host-suffix,paramountplus.com
+host-suffix,pplusstatic.com
+host,cbsi.live.ott.irdeto.com
+host,cbsplaylistserver.aws.syncbak.com
+host,cbsservice.aws.syncbak.com
+host,link.theplatform.com
