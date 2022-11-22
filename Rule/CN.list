@@ -1,0 +1,16 @@
+#> China Apps
+user-agent,MicroMessenger Client
+user-agent,WeChat*
+user-agent,MApi* // Dianping
+#> Ali
+host-keyword,alipay
+host-keyword,taobao
+host-keyword,alicdn
+host-keyword,aliyun
+host-keyword,.tmall.
+ip-cidr,198.11.188.0/25,no-resolve
+ip-cidr,198.11.136.0/24,no-resolve
+user-agent,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
+#> China
+host-suffix,CN
+host-suffix,baidu
