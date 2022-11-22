@@ -189,32 +189,32 @@ host-suffix,twitter.jp
 host-suffix,vine.co
 
 # > YouTube
-host,music.youtube.com
+host-suffix,yt.be
+host-suffix,youtu.be
+host-suffix,ytimg.com
+host-suffix,youtube.com
+host-suffix,youtubekids.com
 host-suffix,googlevideo.com
 host-suffix,withyoutube.com
-host-suffix,youtu.be
-host-suffix,youtube.com
-host-suffix,youtubeeducation.com
 host-suffix,youtubegaming.com
-host-suffix,youtubekids.com
+host-suffix,youtubeeducation.com
 host-suffix,youtube-nocookie.com
-host-suffix,yt.be
-host-suffix,ytimg.com
-host,youtubei.googleapis.com
 host,yt3.ggpht.com
+host,music.youtube.com
+host,youtubei.googleapis.com
 ip-cidr,172.110.32.0/21,no-resolve
 ip-cidr,173.194.0.0/16,no-resolve
 ip-cidr,216.73.80.0/20,no-resolve
 ip-cidr,74.125.0.0/16,no-resolve
 ip6-cidr,2620:120:e000::/40,no-resolve
 user-agent,YouTube*
+user-agent,YouTubeMusic*
 user-agent,Google.Drive*
+user-agent,*YouTubeMusic*
 user-agent,*com.google.Drive*
 user-agent,com.google.ios.youtube*
-user-agent,*YouTubeMusic*
-user-agent,*com.google.ios.youtubemusic*
-user-agent,YouTubeMusic*
 user-agent,com.google.ios.youtubemusic*
+user-agent,*com.google.ios.youtubemusic*
 user-agent,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
 
 # list
