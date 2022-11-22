@@ -1,4 +1,5 @@
 # > YouTube
+DOMAIN,music.youtube.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,youtu.be
@@ -16,6 +17,10 @@ IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,216.73.80.0/20,no-resolve
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR6,2620:120:e000::/40,no-resolve
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,YouTubeMusic*
+USER-AGENT,com.google.ios.youtubemusic*
 USER-AGENT,YouTube*
 USER-AGENT,Google.Drive*
 USER-AGENT,*com.google.Drive*
