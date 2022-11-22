@@ -189,6 +189,7 @@ host-suffix,twitter.jp
 host-suffix,vine.co
 
 # > YouTube
+DOMAIN,music.youtube.com
 host-suffix,googlevideo.com
 host-suffix,withyoutube.com
 host-suffix,youtu.be
@@ -210,6 +211,10 @@ USER-AGENT,YouTube*
 USER-AGENT,Google.Drive*
 USER-AGENT,*com.google.Drive*
 USER-AGENT,com.google.ios.youtube*
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,YouTubeMusic*
+USER-AGENT,com.google.ios.youtubemusic*
 USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
 PROCESS-NAME,com.android.vending
 PROCESS-NAME,com.google.android.gms
