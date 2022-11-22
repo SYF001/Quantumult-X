@@ -79,61 +79,61 @@ host-suffix,discordapp.com
 host-suffix,discordapp.net
 
 # > Disney+
-USER-AGENT,Disney+*
-DOMAIN-SUFFIX,bamgrid.com
-DOMAIN-SUFFIX,disneyplus.com
-DOMAIN-SUFFIX,disney-plus.net
-DOMAIN-SUFFIX,disneystreaming.com
-DOMAIN-SUFFIX,dssott.com
-DOMAIN,cdn.registerdisney.go.com
+user-agent,Disney+*
+host-suffix,bamgrid.com
+host-suffix,disneyplus.com
+host-suffix,disney-plus.net
+host-suffix,disneystreaming.com
+host-suffix,dssott.com
+host,cdn.registerdisney.go.com
 
 # > Gitlab
-DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com
-DOMAIN-SUFFIX,gitlab-static.net
-DOMAIN-SUFFIX,gitlab.com
-DOMAIN-SUFFIX,gitlab.net
-DOMAIN-SUFFIX,gitter-static.net
-DOMAIN-SUFFIX,gitter.im
+host-suffix,gitlab-assets.oss-cn-hongkong.aliyuncs.com
+host-suffix,gitlab-static.net
+host-suffix,gitlab.com
+host-suffix,gitlab.net
+host-suffix,gitter-static.net
+host-suffix,gitter.im
 
 # Instgram
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,instagr.am
-DOMAIN-SUFFIX,instagram.com
-DOMAIN-KEYWORD,instagram
+host-suffix,cdninstagram.com
+host-suffix,instagr.am
+host-suffix,instagram.com
+host-keyword,instagram
 
 # > Microsoft
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,skype.com
-DOMAIN-SUFFIX,aka.ms
-DOMAIN-SUFFIX,github.blog
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,onedrive.live.com
-DOMAIN-SUFFIX,streaming.mediaservices.windows.net
-DOMAIN,assets1.xboxlive.com
-DOMAIN,assets2.xboxlive.com
-DOMAIN,az416426.vo.msecnd.net
-DOMAIN,az668014.vo.msecnd.net
+host-suffix,bing.com
+host-suffix,linkedin.com
+host-suffix,licdn.com
+host-suffix,msn.com
+host-suffix,skype.com
+host-suffix,aka.ms
+host-suffix,github.blog
+host-suffix,github.com
+host-suffix,github.io
+host-suffix,githubassets.com
+host-suffix,githubusercontent.com
+host-suffix,onedrive.live.com
+host-suffix,streaming.mediaservices.windows.net
+host,assets1.xboxlive.com
+host,assets2.xboxlive.com
+host,az416426.vo.msecnd.net
+host,az668014.vo.msecnd.net
 
 # > Pixiv
-DOMAIN-SUFFIX,pixiv.net
-DOMAIN-SUFFIX,pixiv.org
-DOMAIN-SUFFIX,pximg.net
+host-suffix,pixiv.net
+host-suffix,pixiv.org
+host-suffix,pximg.net
 
 # > Reddit
-DOMAIN-SUFFIX,redd.it
-DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,redditmedia.com
-DOMAIN-SUFFIX,redditstatic.com
+host-suffix,redd.it
+host-suffix,reddit.com
+host-suffix,redditmedia.com
+host-suffix,redditstatic.com
 
 # > Steam
-DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN,store.steampowered.com
+host-suffix,steamcommunity.com
+host,store.steampowered.com
 
 # > Spotify
 USER-AGENT,Spotify*
