@@ -43,107 +43,107 @@ ip-cidr,54.226.0.0/15	,Global
 ip-cidr,54.230.156.0/22	,Global
 
 # > bilibili Intl
-host,api.biliapi.com
-host,api.biliapi.net
-host,api.bilibili.com
-host,app.biliapi.com
-host,app.biliapi.net
-host,app.bilibili.com
-host,grpc.biliapi.net
-host,m.bilibili.com
-host,p.bstarstatic.com
-host,apiintl.biliapi.net
-host,apm-misaka.biliapi.net
-host,p-bstarstatic.akamaized.net
-host,upos-bstar-mirrorakam.akamaized.net
-host,upos-bstar1-mirrorakam.akamaized.net
-host,upos-hz-mirrorakam.akamaized.net
-host-suffix,biliintl.com
-host-keyword,cn-hk-eq-bcache-
-user-agent,bilibili
-user-agent,bili-inter*
-ip-cidr,45.43.32.234/32
-ip-cidr,119.29.29.29/32
-ip-cidr,128.1.62.200/32
-ip-cidr,128.1.62.201/32
-ip-cidr,150.116.92.250/32
-ip-cidr,164.52.76.18/32
-ip-cidr,203.107.1.33/32
-ip-cidr,203.107.1.34/32
-ip-cidr,203.107.1.65/32
-ip-cidr,203.107.1.66/32
+host,api.biliapi.com	,Global
+host,api.biliapi.net	,Global
+host,api.bilibili.com	,Global
+host,app.biliapi.com	,Global
+host,app.biliapi.net	,Global
+host,app.bilibili.com	,Global
+host,grpc.biliapi.net	,Global
+host,m.bilibili.com	,Global
+host,p.bstarstatic.com	,Global
+host,apiintl.biliapi.net	,Global
+host,apm-misaka.biliapi.net	,Global
+host,p-bstarstatic.akamaized.net	,Global
+host,upos-bstar-mirrorakam.akamaized.net	,Global
+host,upos-bstar1-mirrorakam.akamaized.net	,Global
+host,upos-hz-mirrorakam.akamaized.net	,Global
+host-suffix,biliintl.com	,Global
+host-keyword,cn-hk-eq-bcache-	,Global
+user-agent,bilibili	,Global
+user-agent,bili-inter*	,Global
+ip-cidr,45.43.32.234/32	,Global
+ip-cidr,119.29.29.29/32	,Global
+ip-cidr,128.1.62.200/32	,Global
+ip-cidr,128.1.62.201/32	,Global
+ip-cidr,150.116.92.250/32	,Global
+ip-cidr,164.52.76.18/32	,Global
+ip-cidr,203.107.1.33/32	,Global
+ip-cidr,203.107.1.34/32	,Global
+ip-cidr,203.107.1.65/32	,Global
+ip-cidr,203.107.1.66/32	,Global
 
 # > Discord
-host-suffix,discord.com
-host-suffix,discordapp.com
-host-suffix,discordapp.net
+host-suffix,discord.com	,Global
+host-suffix,discordapp.com	,Global
+host-suffix,discordapp.net	,Global
 
 # > Disney+
-user-agent,Disney+*
-host-suffix,bamgrid.com
-host-suffix,disneyplus.com
-host-suffix,disney-plus.net
-host-suffix,disneystreaming.com
-host-suffix,dssott.com
-host,cdn.registerdisney.go.com
+user-agent,Disney+*	,Global
+host-suffix,bamgrid.com	,Global
+host-suffix,disneyplus.com	,Global
+host-suffix,disney-plus.net	,Global
+host-suffix,disneystreaming.com	,Global
+host-suffix,dssott.com	,Global
+host,cdn.registerdisney.go.com	,Global
 
 # > Gitlab
-host-suffix,gitlab-assets.oss-cn-hongkong.aliyuncs.com
-host-suffix,gitlab-static.net
-host-suffix,gitlab.com
-host-suffix,gitlab.net
-host-suffix,gitter-static.net
-host-suffix,gitter.im
+host-suffix,gitlab-assets.oss-cn-hongkong.aliyuncs.com	,Global
+host-suffix,gitlab-static.net	,Global
+host-suffix,gitlab.com	,Global
+host-suffix,gitlab.net	,Global
+host-suffix,gitter-static.net	,Global
+host-suffix,gitter.im	,Global
 
 # Instgram
-host-suffix,cdninstagram.com
-host-suffix,instagr.am
-host-suffix,instagram.com
-host-keyword,instagram
+host-suffix,cdninstagram.com	,Global
+host-suffix,instagr.am	,Global
+host-suffix,instagram.com	,Global
+host-keyword,instagram	,Global
 
 # > Microsoft
-host-suffix,bing.com
-host-suffix,linkedin.com
-host-suffix,licdn.com
-host-suffix,msn.com
-host-suffix,skype.com
-host-suffix,aka.ms
-host-suffix,github.blog
-host-suffix,github.com
-host-suffix,github.io
-host-suffix,githubassets.com
-host-suffix,githubusercontent.com
-host-suffix,onedrive.live.com
-host-suffix,streaming.mediaservices.windows.net
-host,assets1.xboxlive.com
-host,assets2.xboxlive.com
-host,az416426.vo.msecnd.net
-host,az668014.vo.msecnd.net
+host-suffix,bing.com	,Global
+host-suffix,linkedin.com	,Global
+host-suffix,licdn.com	,Global
+host-suffix,msn.com	,Global
+host-suffix,skype.com	,Global
+host-suffix,aka.ms	,Global
+host-suffix,github.blog	,Global
+host-suffix,github.com	,Global
+host-suffix,github.io	,Global
+host-suffix,githubassets.com	,Global
+host-suffix,githubusercontent.com	,Global
+host-suffix,onedrive.live.com	,Global
+host-suffix,streaming.mediaservices.windows.net	,Global
+host,assets1.xboxlive.com	,Global
+host,assets2.xboxlive.com	,Global
+host,az416426.vo.msecnd.net	,Global
+host,az668014.vo.msecnd.net	,Global
 
 # > Pixiv
-host-suffix,pixiv.net
-host-suffix,pixiv.org
-host-suffix,pximg.net
+host-suffix,pixiv.net	,Global
+host-suffix,pixiv.org	,Global
+host-suffix,pximg.net	,Global
 
 # > Reddit
-host-suffix,redd.it
-host-suffix,reddit.com
-host-suffix,redditmedia.com
-host-suffix,redditstatic.com
+host-suffix,redd.it	,Global
+host-suffix,reddit.com	,Global
+host-suffix,redditmedia.com	,Global
+host-suffix,redditstatic.com	,Global
 
 # > Steam
-host-suffix,steamcommunity.com
-host,store.steampowered.com
+host-suffix,steamcommunity.com	,Global
+host,store.steampowered.com	,Global
 
 # > Spotify
-user-agent,Spotify*
-host-suffix,pscdn.co
-host-suffix,scdn.co
-host-suffix,spotify.com
-host-suffix,spoti.fi
-host-keyword,spotify.com
-host-keyword,-spotify-com
-ip6-cidr,35.186.224.47/32,no-resolve
+user-agent,Spotify*	,Global
+host-suffix,pscdn.co	,Global
+host-suffix,scdn.co	,Global
+host-suffix,spotify.com	,Global
+host-suffix,spoti.fi	,Global
+host-keyword,spotify.com	,Global
+host-keyword,-spotify-com	,Global
+ip6-cidr,35.186.224.47/32	,Global
 
 # > Telegram
 host-suffix,t.me
