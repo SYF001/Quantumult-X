@@ -1,16 +1,16 @@
 # > Amazon
 host,amazon.com	,Global
-host,atv-ps.amazon.com	,Global
+host,atv-ps.amazon.com,Global
 host,fls-na.amazon.com	,Global
-host,payments-jp.amazon.com	,Global
-host,avodmp4s3ww-a.akamaihd.net	,Global
-host,d3c33hcgiwev3.cloudfront.net	,Global
+host,payments-jp.amazon.com,Global
+host,avodmp4s3ww-a.akamaihd.net,Global
+host,d3c33hcgiwev3.cloudfront.net,Global
 host,s3-ap-northeast-1.amazonaws.com	,Global
 host,s3-ap-southeast-2.amazonaws.com	,Global
 host-suffix,pv-cdn.net	,Global
 host-suffix,aiv-cdn.net	,Global
-host-suffix,amazon.co.jp	,Global
-host-suffix,primevideo.tv	,Global
+host-suffix,amazon.co.jp,Global
+host-suffix,primevideo.tv,Global
 host-suffix,amazonaws.com	,Global
 host-suffix,primevideo.cc	,Global
 host-suffix,primevideo.org	,Global
@@ -173,20 +173,20 @@ ip-asn,59930	,Global
 ip-asn,211157	,Global
 
 # > The Economist
-host-suffix,economist.com
-host-suffix,static-economist.com
+host-suffix,economist.com,Global
+host-suffix,static-economist.com,Global
 
 # > Twitter
-host-suffix,periscope.tv
-host-suffix,pscp.tv
-host-suffix,t.co
-host-suffix,tweetdeck.com
-host-suffix,twimg.co
-host-suffix,twimg.com
-host-suffix,twitpic.com
-host-suffix,twitter.com
-host-suffix,twitter.jp
-host-suffix,vine.co
+host-suffix,periscope.tv,Global
+host-suffix,pscp.tv,Global
+host-suffix,t.co,Global
+host-suffix,tweetdeck.com,Global
+host-suffix,twimg.co,Global
+host-suffix,twimg.com,Global
+host-suffix,twitpic.com,Global
+host-suffix,twitter.com,Global
+host-suffix,twitter.jp,Global
+host-suffix,vine.co,Global
 
 # > YouTube
 host-suffix,yt.be	,Global
