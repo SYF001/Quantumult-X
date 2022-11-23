@@ -189,34 +189,33 @@ host-suffix,twitter.jp
 host-suffix,vine.co
 
 # > YouTube
-host-suffix,yt.be
-host-suffix,youtu.be
-host-suffix,ytimg.com
-host-suffix,youtube.com
-host-suffix,youtubekids.com
-host-suffix,googlevideo.com
-host-suffix,withyoutube.com
-host-suffix,youtubegaming.com
-host-suffix,youtubeeducation.com
-host-suffix,youtube-nocookie.com
-host,yt3.ggpht.com
-host,music.youtube.com
-host,youtubei.googleapis.com
-ip-cidr,172.110.32.0/21,no-resolve
-ip-cidr,173.194.0.0/16,no-resolve
-ip-cidr,216.73.80.0/20,no-resolve
-ip-cidr,74.125.0.0/16,no-resolve
-ip6-cidr,2620:120:e000::/40,no-resolve
-user-agent,YouTube*
-user-agent,YouTubeMusic*
-user-agent,Google.Drive*
-user-agent,*YouTubeMusic*
-user-agent,*com.google.Drive*
-user-agent,com.google.ios.youtube*
-user-agent,com.google.ios.youtubemusic*
-user-agent,*com.google.ios.youtubemusic*
-user-agent,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
-
+host-suffix,yt.be	,Global
+host-suffix,youtu.be	,Global
+host-suffix,ytimg.com	,Global
+host-suffix,youtube.com	,Global
+host-suffix,youtubekids.com	,Global
+host-suffix,googlevideo.com	,Global
+host-suffix,withyoutube.com	,Global
+host-suffix,youtubegaming.com	,Global
+host-suffix,youtubeeducation.com	,Global
+host-suffix,youtube-nocookie.com	,Global
+host,yt3.ggpht.com	,Global
+host,music.youtube.com	,Global
+host,youtubei.googleapis.com	,Global
+ip-cidr,172.110.32.0/21,no-resolve	,Global
+ip-cidr,173.194.0.0/16,no-resolve	,Global
+ip-cidr,216.73.80.0/20,no-resolve	,Global
+ip-cidr,74.125.0.0/16,no-resolve	,Global
+ip6-cidr,2620:120:e000::/40,no-resolve	,Global
+user-agent,YouTube*	,Global
+user-agent,YouTubeMusic*	,Global
+user-agent,Google.Drive*	,Global
+user-agent,*YouTubeMusic*	,Global
+user-agent,*com.google.Drive*	,Global
+user-agent,com.google.ios.youtube*	,Global
+user-agent,com.google.ios.youtubemusic*	,Global
+user-agent,*com.google.ios.youtubemusic*	,Global
+user-agent,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*	,Global
 # list
 host-suffix,tw
 host-keyword,google
