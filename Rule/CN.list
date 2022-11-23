@@ -46,34 +46,34 @@ host-suffix,routerlogin.com,direct
 host-suffix,tendawifi.com,direct
 host-suffix,zte.home,direct
 # bilibii
-host-suffix,biliapi.com
-host-suffix,biliapi.net
-host-suffix,bilibili.com
-host-suffix,biligame.com
-host-suffix,biligame.net
-host-suffix,bilivideo.com
-host-suffix,bilibili.tv
-host-suffix,hdslb.com
-host-suffix,biliintl.com
-host-suffix,acfun.cn
-host-suffix,acfun.com
-host-suffix,acfun.tv
-host-suffix,acg.tv
-host-suffix,acgvideo.com
-host-suffix,aixifan.com
-ip-cidr,106.75.74.76/32
-ip-cidr,111.206.25.147/32
-ip-cidr,119.3.238.64/32
-ip-cidr,120.92.108.182/32
-ip-cidr,120.92.113.99/32
-ip-cidr,120.92.153.217/32
-ip-cidr,134.175.207.130/32
-ip-cidr,203.107.1.0/24
-user-agent,AcFun*
-user-agent,*bili*
-user-agent,Bilibili*
-user-agent,bili*
-user-agent,bili-inter*
+host-suffix,biliapi.com	,direct
+host-suffix,biliapi.net	,direct
+host-suffix,bilibili.com	,direct
+host-suffix,biligame.com	,direct
+host-suffix,biligame.net	,direct
+host-suffix,bilivideo.com	,direct
+host-suffix,bilibili.tv	,direct
+host-suffix,hdslb.com	,direct
+host-suffix,biliintl.com	,direct
+host-suffix,acfun.cn	,direct
+host-suffix,acfun.com	,direct
+host-suffix,acfun.tv	,direct
+host-suffix,acg.tv	,direct
+host-suffix,acgvideo.com	,direct
+host-suffix,aixifan.com	,direct
+ip-cidr,106.75.74.76/32	,direct
+ip-cidr,111.206.25.147/32	,direct
+ip-cidr,119.3.238.64/32	,direct
+ip-cidr,120.92.108.182/32	,direct
+ip-cidr,120.92.113.99/32	,direct
+ip-cidr,120.92.153.217/32	,direct
+ip-cidr,134.175.207.130/32	,direct
+ip-cidr,203.107.1.0/24	,direct
+user-agent,AcFun*	,direct
+user-agent,*bili*	,direct
+user-agent,Bilibili*	,direct
+user-agent,bili*	,direct
+user-agent,bili-inter*	,direct
 # DingTalk
 host-suffix,ddurl.to
 host-suffix,dg-work.cn
