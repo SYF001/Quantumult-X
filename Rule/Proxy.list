@@ -217,29 +217,29 @@ user-agent,com.google.ios.youtubemusic*	,Global
 user-agent,*com.google.ios.youtubemusic*	,Global
 user-agent,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*	,Global
 # list
-host-suffix,tw
-host-keyword,google
-host-suffix,gstatic.com
-host-suffix,ampproject.org
-host-keyword,gmail
-host-keyword,youtube
-host-keyword,facebook
-host-suffix,fb.me
-host-suffix,fbcdn.net
-host-keyword,twitter
-host-keyword,instagram
-host-keyword,dropbox
-host-suffix,twimg.com
-host-suffix,blogspot
-host-suffix,youtu.be
-host-suffix,oculuscdn.com
-host-suffix,oculus.com
-host-keyword,whatsapp
-host-suffix,letsencrypt.org
-host-suffix,android.com
-host-suffix,ytimg.com
-host-keyword,gitlab
-host-keyword,appspot
-host-keyword,blogspot
-host-keyword,gstatic
-host-keyword,recaptcha
+host-suffix,tw	,Global
+host-keyword,google	,Global
+host-suffix,gstatic.com	,Global
+host-suffix,ampproject.org	,Global
+host-keyword,gmail	,Global
+host-keyword,youtube	,Global
+host-keyword,facebook	,Global
+host-suffix,fb.me	,Global
+host-suffix,fbcdn.net	,Global
+host-keyword,twitter	,Global
+host-keyword,instagram	,Global
+host-keyword,dropbox	,Global
+host-suffix,twimg.com	,Global
+host-suffix,blogspot	,Global
+host-suffix,youtu.be	,Global
+host-suffix,oculuscdn.com	,Global
+host-suffix,oculus.com	,Global
+host-keyword,whatsapp	,Global
+host-suffix,letsencrypt.org	,Global
+host-suffix,android.com	,Global
+host-suffix,ytimg.com	,Global
+host-keyword,gitlab	,Global
+host-keyword,appspot	,Global
+host-keyword,blogspot	,Global
+host-keyword,gstatic	,Global
+host-keyword,recaptcha	,Global
