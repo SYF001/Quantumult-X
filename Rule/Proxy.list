@@ -143,7 +143,7 @@ host-suffix,spotify.com	,Global
 host-suffix,spoti.fi	,Global
 host-keyword,spotify.com	,Global
 host-keyword,-spotify-com	,Global
-ip6-cidr,35.186.224.47/32	,Global
+ip-cidr,35.186.224.47/32	,Global
 
 # > Telegram
 host-suffix,t.me	,Global
@@ -202,11 +202,11 @@ host-suffix,youtube-nocookie.com	,Global
 host,yt3.ggpht.com	,Global
 host,music.youtube.com	,Global
 host,youtubei.googleapis.com	,Global
-ip-cidr,172.110.32.0/21,no-resolve	,Global
-ip-cidr,173.194.0.0/16,no-resolve	,Global
-ip-cidr,216.73.80.0/20,no-resolve	,Global
-ip-cidr,74.125.0.0/16,no-resolve	,Global
-ip6-cidr,2620:120:e000::/40,no-resolve	,Global
+ip-cidr,172.110.32.0/21	,Global
+ip-cidr,173.194.0.0/16,Global
+ip-cidr,216.73.80.0/20,Global
+ip-cidr,74.125.0.0/16,Global
+ip6-cidr,2620:120:e000::/40,Global
 user-agent,YouTube*	,Global
 user-agent,YouTubeMusic*	,Global
 user-agent,Google.Drive*	,Global
